@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="/ARKExplorer.png" />
-</p>
+</p> 
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
 
